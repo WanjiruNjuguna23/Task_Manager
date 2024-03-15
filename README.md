@@ -9,4 +9,4 @@ This is a simple Task Manager application built with Python and Tkinter. It allo
 - Edit existing tasks
 - Filter tasks based on keywords
 ## Screenshots
-![Task Manager Screenshot](https://ibb.co/Th2BqjC)
+![Task Manager Screenshot]([url=https://ibb.co/Th2BqjC][img]https://i.ibb.co/kcBg6bd/Screenshot-2024-03-14-204626.png[/img][/url])
